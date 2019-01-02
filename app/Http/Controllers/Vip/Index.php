@@ -14,4 +14,7 @@ class Index extends Controller
         echo '<pre>';
         print_r($info);
     }
+    public function lian(){
+        echo 'wangmengwei';
+    }
 }
